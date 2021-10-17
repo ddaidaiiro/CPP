@@ -1,0 +1,8 @@
+﻿  Fraction.cpp
+C:\Users\darina\source\repos\Lab2_2\Lab2_2\Fraction.cpp(113,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\darina\source\repos\Lab2_2\Lab2_2\Fraction.cpp(114,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\darina\source\repos\Lab2_2\Lab2_2\Fraction.cpp(121,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Main.cpp
+C:\Users\darina\source\repos\Lab2_2\Lab2_2\Main.cpp(79,2): warning C4551: в вызове функции отсутствует список аргументов
+  Создание кода...
+  Lab2_2.vcxproj -> C:\Users\darina\source\repos\Lab2_2\Debug\Lab2_2.exe
