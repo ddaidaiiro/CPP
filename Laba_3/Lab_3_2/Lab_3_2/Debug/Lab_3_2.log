@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\Minibus.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\Minibus.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\Minibus.h(6,24): warning C4584: Minibus: базовый класс "IFuelConsumer" уже является базовым классом для "Car"
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\IFuelConsumer.h(3): message : см. объявление "IFuelConsumer"
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\Car.h(7): message : см. объявление "Car"
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\PassengerCar.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\PassengerCar.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\PassengerCar.h(6,29): warning C4584: PassengerCar: базовый класс "IFuelConsumer" уже является базовым классом для "Car"
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\IFuelConsumer.h(3): message : см. объявление "IFuelConsumer"
+C:\Users\darina\source\repos\Lab_3_2\Lab_3_2\Car.h(7): message : см. объявление "Car"
+  Lab_3_2.vcxproj -> C:\Users\darina\source\repos\Lab_3_2\Debug\Lab_3_2.exe

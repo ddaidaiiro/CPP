@@ -1,0 +1,10 @@
+﻿  CustomExpressionEvaluator.cpp
+C:\Users\darina\source\repos\Lab_3_1\Lab_3_1\CustomExpressionEvaluator.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\darina\source\repos\Lab_3_1\Lab_3_1\CustomExpressionEvaluator.cpp(70,25): warning C4018: <: несоответствие типов со знаком и без знака
+  ExpressionEvaluator.cpp
+C:\Users\darina\source\repos\Lab_3_1\Lab_3_1\ExpressionEvaluator.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Multiplier.cpp
+  Summator.cpp
+  Создание кода...
+  Lab_3_1.vcxproj -> C:\Users\darina\source\repos\Lab_3_1\Debug\Lab_3_1.exe
