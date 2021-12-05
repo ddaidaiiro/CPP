@@ -1,0 +1,19 @@
+﻿  Adapter.cpp
+  Card.cpp
+  Dealer.cpp
+  Deck.cpp
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Deck.cpp(5,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Deck.cpp(6,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Game.cpp
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Game.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Game.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Game.cpp(90,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Game.cpp(164,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Hand.cpp
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Hand.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Main.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\darina\source\repos\Laba_4_1\Laba_4_1\Main.cpp(48,2): warning C4551: в вызове функции отсутствует список аргументов
+  Player.cpp
+  Создание кода...
+  Laba_4_1.vcxproj -> C:\Users\darina\source\repos\Laba_4_1\Debug\Laba_4_1.exe
